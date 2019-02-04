@@ -1,0 +1,9 @@
+# Waluty (id | symbol | pe³na nazwa)
+0 EUR euro
+1 GBP funt brytyjski
+2 USD dolar amerykañski
+# Kursy walut (id | symbol (waluta wejœciowa) | symbol (waluta wyjœciowa) | kurs | typ op³aty | op³ata
+0 EUR GBP 0.8889 PROC 0.0001
+1 GBP USD 1.2795 PROC 0
+2 EUR USD 1.1370 STA£A 0.025
+3 USD EUR 0.8795 STA£A 0.01
